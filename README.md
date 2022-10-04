@@ -41,18 +41,24 @@
 <img src="https://user-images.githubusercontent.com/104615422/193885816-624d8613-bc90-4538-ad5c-0cd88880c37a.jpg" width="60%" height="60%">
 <img src="https://user-images.githubusercontent.com/104615422/193885827-d8e61279-de0b-4628-92b7-6745397118a9.jpg" width="60%" height="60%">
 <img src="https://user-images.githubusercontent.com/104615422/193885830-048ddbbf-5169-43f2-88c1-de5875415de2.jpg" width="60%" height="60%">
+
 ---
+
 ### 데이터 분석
   - 데이터 전처리
   - 피벗테이블 작성
 <img src="https://user-images.githubusercontent.com/104615422/193885833-7aa2f699-d13e-4622-922d-500ee85607e8.jpg" width="60%" height="60%">
 <img src="https://user-images.githubusercontent.com/104615422/193885838-afb5ac5c-d160-46a6-bdf6-700cfacde416.jpg" width="60%" height="60%">
+
 ---
+
   - 막대그래프, 히트맵 작성
 <img src="https://user-images.githubusercontent.com/104615422/193885841-526ba25e-bc4e-40ec-ae54-f96e12989029.jpg" width="60%" height="60%">
 <img src="https://user-images.githubusercontent.com/104615422/193885845-a813c583-9f95-4090-9a37-0df654fbe45f.jpg" width="60%" height="60%">
 <img src="https://user-images.githubusercontent.com/104615422/193885847-fd0b7f45-7eed-4bad-9370-41a970906a01.jpg" width="60%" height="60%">
+
 ---
+
   - folium 라이브러리
     - 마커표시
     - 빈도에 따른 색상표시
@@ -60,6 +66,8 @@
 <img src="https://user-images.githubusercontent.com/104615422/193885854-6b1e6b54-d8b5-43b5-9668-3a0b06914285.jpg" width="60%" height="60%">
 <img src="https://user-images.githubusercontent.com/104615422/193885862-1e97d8bd-dbba-4713-99f1-9c2f01cf2049.jpg" width="60%" height="60%">
 <img src="https://user-images.githubusercontent.com/104615422/193885865-1f046833-3517-4439-b476-9f354a6d68d7.jpg" width="60%" height="60%">
+
 ---
+
   - voronoi 라이브러리 이용
 <img src="https://user-images.githubusercontent.com/104615422/193885873-6161e296-b48b-48f7-a204-52629b117858.jpg" width="60%" height="60%">
