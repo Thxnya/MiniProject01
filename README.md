@@ -35,14 +35,14 @@
 
 ⚡ 발표 자료<br/>
 ---
-데이터 수집
+### 데이터 수집
   - csv 다운로드
   - Open API 형태 사용
 <img src="https://user-images.githubusercontent.com/104615422/193885816-624d8613-bc90-4538-ad5c-0cd88880c37a.jpg" width="60%" height="60%">
 <img src="https://user-images.githubusercontent.com/104615422/193885827-d8e61279-de0b-4628-92b7-6745397118a9.jpg" width="60%" height="60%">
 <img src="https://user-images.githubusercontent.com/104615422/193885830-048ddbbf-5169-43f2-88c1-de5875415de2.jpg" width="60%" height="60%">
 
-데이터 분석
+### 데이터 분석
   - 데이터 전처리
   - 피벗테이블 작성
 <img src="https://user-images.githubusercontent.com/104615422/193885833-7aa2f699-d13e-4622-922d-500ee85607e8.jpg" width="60%" height="60%">
