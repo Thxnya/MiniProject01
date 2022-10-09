@@ -1,7 +1,10 @@
 # MiniProject01
-미니 프로젝트01 - 중증장애인 교통배려시설 현황 및 문제점 분석
 
 https://github.com/Thxnya/MiniProject01
+
+## 미니 프로젝트01 - 중증장애인 교통배려시설 현황 및 문제점 분석
+
+
 
 📰 프로젝트 개요<br/>
 ---
